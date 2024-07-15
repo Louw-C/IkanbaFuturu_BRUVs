@@ -1,0 +1,1 @@
+#Script for a spatially balanced survey design
